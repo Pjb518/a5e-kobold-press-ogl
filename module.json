@@ -2,7 +2,7 @@
     "id": "a5e-kobold-press-ogl",
     "title": "Kobold Press OGL (A5e)",
     "description": "Provides A5e versions of Kobold Press OGL monsters and spells.",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "manifestPlusVersion": "1.2.0",
     "authors": [
         {
@@ -34,14 +34,14 @@
         {
             "name": "a5e-kobold-press-ogl-spells",
             "label": "Kobold Press OGL Spells",
-            "path": "packs/a5e-kobold-press-ogl-spells.db",
+            "path": "packs/kobold-press-ogl-spells.db",
             "type": "Item",
             "system": "a5e"
         },
         {
             "name": "a5e-kobold-press-ogl-monsters",
             "label": "Kobold Press OGL Monsters",
-            "path": "packs/a5e-kobold-press-ogl-monsters.db",
+            "path": "packs/kobold-press-ogl-monsters.db",
             "type": "Actor",
             "system": "a5e"
         }
@@ -50,7 +50,7 @@
     "url": "https://github.com/Pjb518/a5e-kobold-press-ogl",
     "readme": "https://github.com/Pjb518/a5e-kobold-press-ogl/blob/master/README.md",
     "manifest": "https://github.com/Pjb518/a5e-kobold-press-ogl/releases/latest/download/module.json",
-    "download": "https://github.com/Pjb518/a5e-kobold-press-ogl/releases/download/0.0.0/a5e-kobold-press-ogl.zip",
+    "download": "https://github.com/Pjb518/a5e-kobold-press-ogl/releases/download/1.0.0/a5e-kobold-press-ogl.zip",
     "protected": false,
     "coreTranslation": false,
     "library": false

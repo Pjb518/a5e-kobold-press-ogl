@@ -47,7 +47,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 15. COPYRIGHT NOTICE
 
-    Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+    **Open Game License v 1.0a** Copyright 2000, Wizards of the Coast, Inc.
     
     **12 Perilous Towers** © 2018 Open Design LLC; Authors: Jeff Lee.
     
