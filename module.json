@@ -32,6 +32,13 @@
     },
     "packs": [
         {
+            "name": "a5e-kobold-press-ogl-monsters",
+            "label": "Kobold Press OGL Monsters",
+            "path": "packs/kobold-press-ogl-monsters.db",
+            "type": "Actor",
+            "system": "a5e"
+        },
+        {
             "name": "a5e-kobold-press-ogl-spells",
             "label": "Kobold Press OGL Spells",
             "path": "packs/kobold-press-ogl-spells.db",
@@ -39,10 +46,10 @@
             "system": "a5e"
         },
         {
-            "name": "a5e-kobold-press-ogl-monsters",
-            "label": "Kobold Press OGL Monsters",
-            "path": "packs/kobold-press-ogl-monsters.db",
-            "type": "Actor",
+            "name": "a5e-kobold-press-ogl-spell-lists",
+            "label": "Kobold Press OGL Spell Lists",
+            "path": "packs/kobold-press-ogl-spell-lists.db",
+            "type": "Journal",
             "system": "a5e"
         }
     ],
