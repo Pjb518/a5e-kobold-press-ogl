@@ -49,7 +49,7 @@
             "name": "a5e-kobold-press-ogl-spell-lists",
             "label": "Kobold Press OGL Spell Lists",
             "path": "packs/kobold-press-ogl-spell-lists.db",
-            "type": "Journal",
+            "type": "JournalEntry",
             "system": "a5e"
         }
     ],
