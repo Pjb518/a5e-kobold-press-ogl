@@ -2,7 +2,7 @@
 ![Latest Release Download Count](https://img.shields.io/github/downloads/Pjb518/a5e-kobold-press-ogl/latest/a5e-kobold-press-ogl.zip)
 [![Discord](https://img.shields.io/discord/957965481455788032?label=A5e%20Foundry%20Discord)](https://discord.gg/XtkZ6RkN9E)
 
-# Kobold Press OGL (A5E)
+# Kobold Press OGL Compendium (A5E)
 
 This is a conversion of the [Kobold Press OGL Compendium module](https://foundryvtt.com/packages/koboldpressogl) content, making it compatible with the A5e Foundry system. This is purely a data format conversion, and no spells or monsters have been adjusted for the Level Up Advanced 5th Edition rule set.
 
